@@ -3,8 +3,8 @@ package middlewares
 import (
 	"net/http"
 
-	"github.com/gagassurya19/go-jwt-mux/config"
-	"github.com/gagassurya19/go-jwt-mux/helper"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/config"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/helper"
 	"github.com/golang-jwt/jwt/v4"
 )
 

@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gagassurya19/go-jwt-mux/config"
-	"github.com/gagassurya19/go-jwt-mux/helper"
-	"github.com/gagassurya19/go-jwt-mux/models"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/config"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/helper"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/models"
 	"github.com/golang-jwt/jwt/v4"
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"

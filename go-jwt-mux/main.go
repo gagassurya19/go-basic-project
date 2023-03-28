@@ -6,10 +6,10 @@ import (
 
 	"gopkg.in/DataDog/dd-trace-go.v1/contrib/gorilla/mux"
 
-	"github.com/gagassurya19/go-jwt-mux/middlewares"
-	"github.com/gagassurya19/go-jwt-mux/controllers/authController"
-	"github.com/gagassurya19/go-jwt-mux/controllers/productController"
-	"github.com/gagassurya19/go-jwt-mux/models"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/middlewares"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/controllers/authController"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/controllers/productController"
+	"github.com/gagassurya19/go-basic-project/go-jwt-mux/models"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/gagassurya19/go-rest-gin/models"
+	"github.com/gagassurya19/go-basic-project/go-rest-gin/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )
